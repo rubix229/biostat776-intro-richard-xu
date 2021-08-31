@@ -1,0 +1,31 @@
+
+# biostat776-intro-richard-xu
+***
+This is the repository for Richard Xu in Biostat 776.
+I am currently a first year ScM student in the Department of Biostatistics.
+
+## Background
+***
+Hi everyone! I was born in Boston, Massachusetts, but I have lived in Ellicott City, Maryland for the last 10 years. I graduated this past May from Johns Hopkins University (the nearby Homewood Campus!) with a B.S in both Molecular & Cellular Biology and in Computer Science.
+
+## Training & Research Interests
+***
+Despite having majored in molecular & cellular biology during my undergraduate studies, I really want to use my knowledge of both biology and computer science in order to better understand and analyze big data. For the past two years, I have been working in Professor Hongkai Ji's lab (department of biostatistics), where I focused on both genomic and epigenomic data. If you'd like, take a look below for a paper I published earlier this year!
+
+https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-021-01032-6
+
+I don't specialize in math or statistics, but I am proficient in Java, C, C++, and python, and I have some experience with using R for data analyses. I'm hoping to learn about how to better visualize data, as well as applying basic machine learning and statistical algorithms.
+
+## Fun Facts
+***
+1. I have a twin.
+2. I used to be able to solve rubik's cubes under 15 seconds, but I'm a little rusty (probably around 20ish seconds now).
+3. I'm pretty fascinated with learning languages; I know English, Mandarin, and French, but I'm also hoping to learn and at least be conversational in Japanese and Korean at some point (and maybe more haha!)
+4. I tend to watch a lot of anime and read a lot of manga in my downtime, so if you can name a series, I'm probably familiar with it!
+5. I've had really cool experiences volunteering to help in clinical trials including performing interviews and collecting diagnostic data with medical devices.
+
+## Fun website
+I'm a hands-on type of person that loves fiddling with crafts or puzzles, despite not always being great at it however. I found this site a few years back that lets you download models and gives you step by step instructions to fold your favorite pokemon! 
+
+* http://www.pokemonpapercraft.net/
+
